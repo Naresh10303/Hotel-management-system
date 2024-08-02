@@ -1,6 +1,6 @@
 # Hotel Management System
  Hotel Website which enables users to book rooms.
- This website is a basic room-booking system for the hotel, Hirato
+ This website is a basic room-booking system for the hotel.
  
  ## Tech Stacks Used:
  
